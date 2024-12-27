@@ -1,0 +1,6 @@
+Flask
+flask-cors
+flask-socketio
+flask-jwt-extended
+pandas
+yfinance

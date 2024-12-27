@@ -1,0 +1,11 @@
+saved_conditions :{
+{name:"condition_20ema",method:"20ema",conditions:[{"field1": field1,
+            "operator": operator,
+            "field2": field2,
+            "multiple": multiple}, {
+"field1": field1,
+"operator": operator,
+"field2": field2,
+"multiple": multiple
+}]}
+}
