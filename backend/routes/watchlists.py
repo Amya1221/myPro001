@@ -135,7 +135,7 @@ def watchlists():
             return jsonify({"status": "error", "message": "Invalid action or missing stock data."}), 400
 
     elif request.method == 'GET':
-        print('inside GET')
+        # print('inside GET')
         # Retrieve all watchlists with detailed stock information
         watchlists_info = {
             name: {
